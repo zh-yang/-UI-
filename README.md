@@ -22,7 +22,7 @@ ppi是指每英寸所拥有的像素数/每英寸像素。像素密越高，代�
 *ppi与dpi
 ![image.png](https://upload-images.jianshu.io/upload_images/6828981-a0c4bd40a3582253.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-###5、设备像素(device pixel)与逻辑像素(css像素)
+### 5、设备像素(device pixel)与逻辑像素(css像素)
 
 #### 设备像素
 
