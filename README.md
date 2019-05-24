@@ -16,7 +16,7 @@ ppi是指每英寸所拥有的像素数/每英寸像素。像素密越高，代�
 
 ![image.png](https://upload-images.jianshu.io/upload_images/6828981-e14d4358f3f9022c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-###4、视网膜屏幕
+### 4、视网膜屏幕
 
 ![image.png](https://upload-images.jianshu.io/upload_images/6828981-e6b8d1f1732ad9d4.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 *ppi与dpi
